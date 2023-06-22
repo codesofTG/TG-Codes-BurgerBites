@@ -14,21 +14,20 @@ Welcome to the TG Foods - BurgerBites repository! This repository showcases a fo
 TG Foods is a responsive food website focused on BurgerBites. 🍔🍟 It offers a seamless browsing experience with modern web development techniques. Explore the menu, enjoy interactive features, and reach out through the contact form. Get ready to tantalize your taste buds! 🌐🎨✨
 ## Authors
 
-- [TG💛](https://www.github.com/tg26codes)
+- [TG💛](https://www.github.com/codesofTG)
 
 
 ## Demo
 
 Live Demo:
 
- https://tg26codes.github.io/TG-Foods---BurgerBites/
+ https://codesoftg.github.io/TG-Foods---BurgerBites/
+ 
 ## Getting Started
-
-To view the TG Foods - BurgerBites website, simply visit https://tg26codes.github.io/TG-Foods---BurgerBites/
 
 To explore or modify the code, follow these steps:
 
-1.Clone the repository: https://github.com/tg26codes/TG-Foods---BurgerBites.git
+1.Clone the repository
 
 2.Open the project in your preferred code editor.
 
