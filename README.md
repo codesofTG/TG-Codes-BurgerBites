@@ -21,7 +21,7 @@ TG Foods is a responsive food website focused on BurgerBites. 🍔🍟 It offers
 
 Live Demo:
 
- https://codesoftg.github.io/TG-Foods---BurgerBites/
+ https://codesoftg.github.io/TG-Codes-BurgerBites/
  
 ## Getting Started
 
